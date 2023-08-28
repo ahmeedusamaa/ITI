@@ -1,0 +1,4 @@
+EXTI.c:39:14:MCAL_EXTI_Enable	16	static
+EXTI.c:86:14:MCAL_EXTI_Disable	16	static
+EXTI.c:93:6:EXTI0_IRQHandler	8	static
+EXTI.c:99:6:EXTI1_IRQHandler	8	static

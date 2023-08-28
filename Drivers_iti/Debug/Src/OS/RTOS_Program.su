@@ -1,0 +1,6 @@
+RTOS_Program.c:22:10:RTOS_uint8_tCreateTask	32	static
+RTOS_Program.c:54:6:scheduler	16	static
+RTOS_Program.c:80:9:RTos_DeleteTask	24	static
+RTOS_Program.c:98:9:Rtos_Suspend	24	static
+RTOS_Program.c:116:9:Rtos_ResumeTask	24	static
+RTOS_Program.c:132:6:Start_OS	8	static

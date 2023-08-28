@@ -1,0 +1,7 @@
+NVIC_Program.c:28:14:MCAL_NVIC_EnableIRQ	24	static
+NVIC_Program.c:46:14:MCAL_NVIC_DisableIRQ	24	static
+NVIC_Program.c:69:14:MCAL_NVIC_SetPendingIRQ	24	static
+NVIC_Program.c:92:14:MCAL_NVIC_ClearPendingIRQ	24	static
+NVIC_Program.c:115:13:MCAL_NVIC_IsActive	24	static
+NVIC_Program.c:141:14:MCAL_NVIC_SetGroupMode	16	static
+NVIC_Program.c:162:14:MCAL_NVIC_SetPriority	16	static

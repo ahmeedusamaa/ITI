@@ -1,0 +1,7 @@
+RCC.c:19:6:MCAL_RCC_voidInit	24	static
+RCC.c:84:6:MCAL_RCC_voidPeripheral_EN	16	static
+RCC.c:107:6:MCAL_RCC_voidPeripheral_DIS	16	static
+RCC.c:149:10:MCAL_Get_SysClk	4	static
+RCC.c:158:10:MCAL_Get_AHB_CLK	8	static
+RCC.c:162:10:MCAL_Get_APB1_CLK	8	static
+RCC.c:166:10:MCAL_Get_APB2_CLK	8	static
